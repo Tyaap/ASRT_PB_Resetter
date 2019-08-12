@@ -9,4 +9,4 @@ Each time you complete a lap in time attack it will be set as your new PB.
 When you finish the time attack session it will be saved to your save file and the online leaderboards.
 To disable the tool, simply restart the game.
 
-**Resetting a PB is permanent, be very careful not to accidentally reset a PB!**
+# Resetting a PB is permanent, be very careful not to accidentally reset a PB!
